@@ -39,7 +39,7 @@ Conhecimento prévios em desenvolvimento de software com linguagens C# e Java 8,
 
 ## Extras
 
-**Voluntáriado**
+**Voluntariado**
 * [TDC](https://thedevconf.com/pt) - apoiando no credenciamento 6h na edição 2019 
 * [Comunidade Devs JavaGirl](https://www.meetup.com/pt-BR/Devs-Java-Girl/) - apoiando na organização do workshop 
 
