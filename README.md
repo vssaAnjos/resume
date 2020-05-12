@@ -37,11 +37,6 @@ Conhecimento prévios em desenvolvimento de software com linguagens C# e Java 8,
 * S.O: Linux, Unix, Windows Server - Já trabalhei com [RHEL](https://www.redhat.com/pt-br/technologies/linux-platforms/enterprise-linux) e [Windows Server](https://www.microsoft.com/en-us/cloud-platform/windows-server), no desktop pessoal uso [OS X](https://pt.wikipedia.org/wiki/MacOS)
 * Metodologia Ágil - [Scrum](https://www.scrum.org/) e [Kanban](http://kanbanblog.com/explained/)
 
-## Extras
-
-**Voluntariado**
-* [TDC](https://thedevconf.com/pt) - apoiando no credenciamento 6h na edição 2019 
-* [Comunidade Devs JavaGirl](https://www.meetup.com/pt-BR/Devs-Java-Girl/) - apoiando na organização do workshop 
 
 ## Experiência Profissional
 
@@ -58,3 +53,9 @@ Conhecimento prévios em desenvolvimento de software com linguagens C# e Java 8,
 ### Estágio em análise de sistemas - 04/2017 à 12/2018
 [Hospital Israelita Albert Einstein](https://www.einstein.br/Pages/Home.aspx)
 > Atendimento de chamados do sistema de gestão hospitalar e legados com ITIL, atuando com foco em análise de erros funcionais e integração através do integrador Intersystems Ensemble, utilizando consultas SQL ao banco de dados Intersystems Caché e SoapUI. Também atuei com gestão de pequenos projetos (especificação dos requisitos, acompanhamento de prazo, testes e implantação).
+
+## Extras
+
+**Voluntariado**
+* [TDC](https://thedevconf.com/pt) - apoio no credenciamento da edição de 2019 
+* [Comunidade Devs JavaGirl](https://www.meetup.com/pt-BR/Devs-Java-Girl/) - apoio na organização de workshops para a comunidade sem fins lucrativos.   
