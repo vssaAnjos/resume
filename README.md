@@ -8,10 +8,18 @@
 
 Atualmente atuando como Engenheira de dados focada em ingestão e consumo para democratização dos dados nas diversas áreas de négocios da empresa Itaú Unibanco.
 
-Conhecimento prévios em desenvolvimento de software com linguagens C# e Java 8, banco de dados relacionais com SQL Server, MySql e versionamento com git. Na área de big data aprendendo e utilizando o ecosistema Hadoop (MapReduce, Hive).
+Conhecimento prévios em desenvolvimento de software com linguagens C# e Java 8, banco de dados relacionais como SQL Server, MySql e versionamento com git. Na área de big data aprendendo e utilizando o ecosistema Hadoop (MapReduce, Hive).
 
 
 ## Habilidades
+**Dados**
+
+* Modelagem de dados
+* SQL
+* Hive
+* MapReduce
+* Shell script
+
 **Dev software**
 * C# 
 * aspnet core
@@ -21,15 +29,6 @@ Conhecimento prévios em desenvolvimento de software com linguagens C# e Java 8,
 * HTML/CSS e JavaScript
 * Gerenciadores de dependência e build - [Maven](https://maven.apache.org/what-is-maven.html), [Nuget](https://www.nuget.org/)
 * API REST
-
-**Dados**
-
-* Modelagem de dados
-* SQL
-* Hive
-* MapReduce
-* Shell script
-
 
 **Gerais**
 
