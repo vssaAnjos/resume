@@ -6,9 +6,9 @@
 
 ## Sobre mim
 
-Atualmente atuando como Engenheira de dados focada em ingestão e consumo para democratização dos dados nas diversas áreas de négocios da empresa Itaú Unibanco.
+Atualmente atuando como Engenheira de dados focada em ingestão e consumo para democratização dos dados nas diversas áreas de négocios do bacno Itaú.
 
-Conhecimento prévios em desenvolvimento de software com linguagens C# e Java 8, banco de dados relacionais como SQL Server, MySql e versionamento com git. Na área de big data aprendendo e utilizando o ecosistema Hadoop (MapReduce, Hive).
+Conhecimento prévios em desenvolvimento de software com linguagens C# e Java 8, banco de dados relacional SQL Server, MySql e versionamento com git. Na área de big data aprendendo e utilizando o ecosistema Hadoop (MapReduce, Hive).
 
 
 ## Habilidades
@@ -41,13 +41,13 @@ Conhecimento prévios em desenvolvimento de software com linguagens C# e Java 8,
 
 ### Engenheira de dados - 01/2020
 [Itaú Unibanco](https://www.itau.com.br/sobre/quem-somos/)
-> Engenheira de dados atuando em projetos de captura e ingestão de dados no Data Lake utilizando ecossistema Hadoop com metodologias ágeis. Dentre as principais atividades estão desenvolvimento, testes e implantação de scripts SQL e rotinas em shell script para disponibilização de consumo especializado de dados para áreas de negócio.
+> Engenheira de dados atuando em projetos de captura e ingestão de dados no Data Lake utilizando ecossistema Hadoop com metodologias ágeis. Dentre as principais atividades estão desenvolvimento, testes e implantação de scripts SQL Hive e rotinas em shell script para disponibilização de consumo especializado de dados para áreas de negócio.
 
 
 ### Desenvolvedora - 12/2018 à 05/2019
 [Projesi Software (be3 health tech)](https://www.projesi.com.br/)
 
-> Desenvolvimento de melhorias, correções de bug e novas features de baixa complexidade no sistema ERP da empresa, produto comercializado para clínicas médica em todo o Brasil. Utilização dotnet framework com c# e WPF para aplicações destkop, com padrão de arquitetura MVVM, versionamento em git com GitLab.
+> Desenvolvimento de melhorias, correções de bug e novas features de baixa complexidade no sistema ERP da empresa - produto comercializado para clínicas médica em todo o Brasil. Utilização de dotnet framework com C# e WPF para aplicações destkop, com padrão de arquitetura MVVM, versionamento em git com GitLab.
 
 ### Estágio em análise de sistemas - 04/2017 à 12/2018
 [Hospital Israelita Albert Einstein](https://www.einstein.br/Pages/Home.aspx)
