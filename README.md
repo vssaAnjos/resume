@@ -1,6 +1,6 @@
 # Vanessa Pereira dos Anjos
 
-**[Linkedin](https://www.linkedin.com/in/vanessa-panjos/)**
+**[Linkedin](https://www.linkedin.com/in/vanessa-p-anjos/)**
 
 **E-mail:** vanessa.anjos@protonmail.com
 
