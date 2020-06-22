@@ -1,17 +1,33 @@
 # Vanessa Pereira dos Anjos
 
+### Contato
 **[Linkedin](https://www.linkedin.com/in/vanessa-panjos/)**
 
+**[Github](https://github.com/vssaAnjos)**
+
 **E-mail:** vanessa.anjos@protonmail.com
+
+**Vila Carrão, São Paulo- SP**
 
 ## Sobre mim
 
 Atualmente atuando como Engenheira de dados focada em ingestão e consumo para democratização dos dados para diversas áreas de négocios. 
 
-Conhecimento prévios em desenvolvimento de software com linguagens C# e Java 8, banco de dados relacionais com SQL Server, MySql e versionamento com git. Na área de big data aprendendo e utilizando o ecosistema Hadoop (MapReduce, Hive).
+Conhecimento prévios em desenvolvimento de software com linguagens C# e Java, banco de dados relacionais com SQL Server, MySql e versionamento com git. Na área de big data aprendendo e utilizando o ecossistema Hadoop (MapReduce, Hive,HDFS).
 
 
 ## Habilidades
+
+**Dados**
+
+* Modelagem de dados
+* Processamento de dados batch
+* SQL
+* Hive
+* MapReduce
+* Shell script
+* Python
+
 **Dev software**
 * C# 
 * aspnet core
@@ -21,14 +37,6 @@ Conhecimento prévios em desenvolvimento de software com linguagens C# e Java 8,
 * HTML/CSS e JavaScript
 * Gerenciadores de dependência e build - [Maven](https://maven.apache.org/what-is-maven.html), [Nuget](https://www.nuget.org/)
 * API REST
-
-**Dados**
-
-* Modelagem de dados
-* SQL
-* Hive
-* MapReduce
-* Shell script
 
 
 **Gerais**
@@ -40,14 +48,15 @@ Conhecimento prévios em desenvolvimento de software com linguagens C# e Java 8,
 ## Extras
 
 **Voluntáriado**
+
 * [TDC](https://thedevconf.com/pt) - apoiando no credenciamento 6h na edição 2019 
-* [Comunidade Devs JavaGirl](https://www.meetup.com/pt-BR/Devs-Java-Girl/) - apoiando na organização do workshop 
+* [Comunidade Devs JavaGirl](https://www.meetup.com/pt-BR/Devs-Java-Girl/) - apoiando na organização de workshops
 
 ## Experiência Profissional
 
-### Engenheira de dados - 01/2020
+### Engenheira de dados - 01/2020 - atual
 [Itaú Unibanco](https://www.itau.com.br/sobre/quem-somos/)
-> Engenheira de dados atuando em projetos de captura e ingestão de dados no Data Lake utilizando ecossistema Hadoop e gerenciamento com metodoloia ágil. Dentre as principais atividades estão desenvolvimento, testes e implantação de scripts SQL e rotinas em shell script.
+> Engenheira de dados atuando em projetos de ingestão e consumo de dados no Data Lake utilizando ecossistema Hadoop e gerenciamento com metodologia ágil. Dentre as principais atividades estão desenvolvimento, testes e implantação de scripts SQL e rotinas de carga de dados em shell script.
 
 
 ### Desenvolvedora - 12/2018 à 05/2019
