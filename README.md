@@ -10,7 +10,7 @@
 
 ## Sobre mim
 
-Atualmente atuando como Engenheira de dados focada em ingestão e consumo para democratização dos dados nas diversas áreas de négocios do bacno Itaú.
+Atualmente atuando como Engenheira de dados focada em ingestão e consumo para democratização dos dados nas diversas áreas de négocios do banco Itaú.
 
 Conhecimento prévios em desenvolvimento de software com linguagens C# e Java 8, banco de dados relacional SQL Server, MySql e versionamento com git. Na área de big data aprendendo e utilizando o ecosistema Hadoop (MapReduce, Hive).
 
