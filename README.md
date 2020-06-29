@@ -45,7 +45,7 @@ Conhecimento prévios em desenvolvimento de software com linguagens C# e Java 8,
 
 ### Engenheira de dados - 01/2020 - atual
 [Itaú Unibanco](https://www.itau.com.br/sobre/quem-somos/)
-> Engenheira de dados atuando em projetos de captura e ingestão de dados no Data Lake utilizando ecossistema Hadoop com metodologias ágeis. Dentre as principais atividades estão desenvolvimento, testes e implantação de scripts SQL Hive e rotinas em shell script para disponibilização de consumo especializado de dados para áreas de negócio.
+> Engenheira de dados atuando em projetos de ingestão e consumo de dados no Data Lake utilizando ecossistema Hadoop com metodologias ágeis. Dentre as principais atividades estão desenvolvimento, testes e implantação de scripts SQL Hive e rotinas em shell script para disponibilização de consumo especializado de dados para áreas de negócio.
 
 
 ### Desenvolvedora - 12/2018 à 05/2019
