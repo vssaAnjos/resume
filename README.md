@@ -6,7 +6,7 @@
 
 **E-mail:** vanessa.anjos@protonmail.com
 
-**São Paulo,SP **
+** São Paulo,SP **
 
 ## Sobre mim
 
