@@ -25,6 +25,7 @@ Conhecimento prévios em desenvolvimento de software com linguagens C# e Java 8,
 * Shell script
 
 **Dev software**
+
 * C# 
 * aspnet core
 * Java 8
@@ -60,5 +61,6 @@ Conhecimento prévios em desenvolvimento de software com linguagens C# e Java 8,
 ## Extras
 
 **Voluntariado**
+
 * [TDC](https://thedevconf.com/pt) - apoio no credenciamento da edição de 2019 
 * [Comunidade Devs JavaGirl](https://www.meetup.com/pt-BR/Devs-Java-Girl/) - apoio na organização de workshops para a comunidade sem fins lucrativos.   
