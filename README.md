@@ -43,8 +43,9 @@ Principais técnologias: ecossistema Hadoop, SQL, Hive, Impala, Shell script, IB
 [Hospital Israelita Albert Einstein](https://www.einstein.br/Pages/Home.aspx)
 > Atendimento de chamados do sistema de gestão hospitalar e legados com ITIL, atuando com foco em análise de erros funcionais e integração através do integrador Intersystems Ensemble, utilizando consultas SQL ao banco de dados Intersystems Caché e SoapUI. Também atuei com gestão de pequenos projetos (especificação dos requisitos, acompanhamento de prazo, testes e implantação).
 
-## Extras
-**Voluntariado**
+## Experiência de voluntariado
 * [TDC](https://thedevconf.com/pt) - apoio no credenciamento da edição de 2019 
+
 * [Comunidade Devs JavaGirl](https://www.meetup.com/pt-BR/Devs-Java-Girl/) - Monitoria em workshop, apoio na criação do programa de mentoria e organização das atividades da comunidade.   
+
 * Mentoria para mulheres iniciantes na área de TI
