@@ -15,23 +15,17 @@ Conhecimento prévios em desenvolvimento de software com linguagens C# e Java 8 
 
 ## Habilidades
 
-#### Big Data
-* Hadoop, HDFS, Hive, Impala, Parquet, Sqoop
+* Big Data: Hadoop, HDFS, Hive, Impala, Parquet, Sqoop
 
-#### ETL
-* IBM DataStage
+* ETL: IBM DataStage
 
-#### Banco de dados
-* SQL Server, Mysql, Teradata
+* Banco de dados: SQL Server, Mysql, Teradata
 
-#### Linguagens de programação
-* SQL, Shell, Python, Java, C#, JavaScript
+* Linguagens de programação: SQL, Shell, Python, Java, C#, JavaScript
 
-#### DevOps
-* Git, GitLab, GitHub, Linux, Unix, Windows Server
+* DevOps: Git, GitLab, GitHub, Linux, Unix, Windows Server
 
-#### Metodologias Ágil
-* Scrum e Kanban
+* Metodologias Ágil: Scrum e Kanban
 
 
 ## Experiência Profissional
